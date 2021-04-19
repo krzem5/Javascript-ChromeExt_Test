@@ -1,1 +1,0 @@
-C:\WINDOWS\explorer.exe /select,C:\K\Coding\projects\ChromeExt-Test\background.js
